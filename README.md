@@ -9,7 +9,7 @@
 
 - 📝 Check my articles @ [medium.com/@ejaustinforbes](medium.com/@ejaustinforbes)
 
-- 📫 Reach me @ **ejaustinforbes@gmail.com**
+- 📫 Reach me @ ejaustinforbes@gmail.com
 
 - 📄 Check my [resume](drive.google.com/file/d/1wNXjluBMJSkkaTbqwqlrYV5z_eQ7dnMw/view?usp=sharing)
 
