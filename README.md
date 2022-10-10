@@ -5,13 +5,13 @@
 
 - <img height="20px" width="20px" src="https://github.com/Athelian/portfolio/blob/8923682d75a0561142482f22a6df8e3233c0c7fc/src/Images/Logos/Projects/logo__project__zenport_clear.png" /> I’m currently working with [Zenport](https://zenport.io/)
 
-- 👨‍💻 Check my work @ [athelian.github.io/portfolio/](athelian.github.io/portfolio/)
+- 👨‍💻 Check my [work](https://athelian.github.io/portfolio/)
 
-- 📝 Check my articles @ [medium.com/@ejaustinforbes](medium.com/@ejaustinforbes)
+- 📝 Read my [articles](https://medium.com/@ejaustinforbes)
 
-- 📫 Reach me @ ejaustinforbes@gmail.com
+- 📄 See my [resume](https://drive.google.com/file/d/1wNXjluBMJSkkaTbqwqlrYV5z_eQ7dnMw/view?usp=sharing)
 
-- 📄 Check my [resume](drive.google.com/file/d/1wNXjluBMJSkkaTbqwqlrYV5z_eQ7dnMw/view?usp=sharing)
+- 📫 Reach my inbox @ ejaustinforbes@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
