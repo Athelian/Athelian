@@ -9,7 +9,7 @@
 
 - 📝 Read my [articles](https://medium.com/@ejaustinforbes)
 
-- 📄 See my [resume](https://drive.google.com/file/d/1h6VNVonDb9hRfOUPfSnW_koceL9gWI-O/view?usp=sharing)
+- 📄 See my [resume](https://drive.google.com/file/d/1zP7w-nRIwCL09FuUukjV3w-Z_1vYD0JM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
