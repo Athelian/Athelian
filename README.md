@@ -1,5 +1,5 @@
 <h1 align="center">Nice to meet you, I'm Eliot</h1>
-<h3 align="center">A frontend developer from the UK and living and working in Japan!</h3>
+<h3 align="center">A developer from the UK and living and working in Japan!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athelian&label=Profile%20views&color=0e75b6&style=flat" alt="athelian" /> </p>
 
